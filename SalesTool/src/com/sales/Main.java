@@ -16,6 +16,7 @@ public class Main {
 		System.out.println("push 1.2");
 		System.out.println("push 1.3");
 		System.out.println("test 2");
+		System.out.println("test 2.1");
 	}
 
 }
