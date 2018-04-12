@@ -10,9 +10,11 @@ public class Main {
 	}
 	private static void displayGreeting()
 	{
-		System.out.println("welcome sales peopeles");
-		System.out.println("this APP show the sales data");
-		System.out.println("first update after push");
+		System.out.println("WELCOME SALE PEOPELS");
+		System.out.println("SALES DATA");
+		System.out.println("CAP ISSUE FIXED");
+		System.out.println("DISPLAY BRANCH");
+		System.out.println("*********************");
 		System.out.println("push 1.2");
 		System.out.println("push 1.3");
 		System.out.println("test 2");
